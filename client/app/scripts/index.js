@@ -95,6 +95,7 @@ import 'liveblog-marketplace';
 import 'liveblog-settings';
 import 'liveblog-syndication';
 import 'liveblog-themes';
+import 'liveblog-advertising';
 
 import 'liveblog-security.service';
 
@@ -181,6 +182,7 @@ let liveblogModules = [
     'liveblog.blog',
     'liveblog.themes',
     'liveblog.freetypes',
+    'liveblog.advertising',
     'ngMessages'
 ];
 
